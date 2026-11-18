@@ -1,23 +1,25 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              🌿 VEGA & LOGIC | Smooth & Elegant 🌿               -->
+<!--              🟣 VEGA & LOGIC | Soft 3D & Purple 🟣               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- تأثير كتابة ناعم وبطيء (Smooth & Soft) -->
+<!-- تأثير كتابة ناعم بألوان أرجوانية هادئة -->
 <a href="https://t.me/TopVeGa">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=28&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&height=70&lines=Hi+there,+I'm+TopVeGa+%F0%9F%91%8B;Founder+of+VEGA+%26+Logic;Building+Telegram+Bots+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+TopVeGa+%F0%9F%91%8B;Founder+of+VEGA+%26+Logic;Building+Soft+%26+Smart+Bots" alt="Typing SVG" />
 </a>
 
-<!-- فاصل ناعم جداً -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/soft.png" width="80%" />
+<!-- فاصل ناعم جداً بتدرج أرجواني -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=A855F7&height=3&section=header" width="60%" />
 
-<!-- شارات ناعمة (Soft Badges) بدون زوايا حادة -->
+<br>
+
+<!-- شارات ناعمة (Soft Badges) بألوان أرجوانية وخلفيات شفافة -->
 <p>
-  <img src="https://img.shields.io/badge/📍_Egypt-222222?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Telegram_Bots-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Language-Python-222222?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Since-2015-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍_Egypt-2D1B4E?style=for-the-badge&logoColor=white&color=A855F7" />
+  <img src="https://img.shields.io/badge/Focus-Telegram_Bots-2D1B4E?style=for-the-badge&color=A855F7" />
+  <img src="https://img.shields.io/badge/Language-Python-2D1B4E?style=for-the-badge&logo=python&logoColor=white&color=A855F7" />
+  <img src="https://img.shields.io/badge/Since-2015-2D1B4E?style=for-the-badge&color=A855F7" />
 </p>
 
 </div>
@@ -36,10 +38,11 @@
 
 <br>
 
-## 🌿 مشاريعي ومجتمعاتي
+## 🌌 مشاريعي ومجتمعاتي
 
 <div align="center">
 
+<!-- تصميم جدول ناعم بألوان أرجوانية -->
 | الأيقونة | المشروع | الوصف | الرابط |
 | :---: | :--- | :--- | :---: |
 | 🎵 | **VEGA SOUND** | بوت موسيقي متكامل وقناة عامة للتحديثات | [زيارة](https://t.me/vegaone) |
@@ -54,10 +57,10 @@
 
 <div align="center">
   
-<!-- أيقونات ناعمة ومتناسقة (Soft & Rounded Icons) -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,mongodb,redis,fastapi,bash&theme=light&perline=9" alt="My Skills" />
-</a>
+<!-- استخدام أيقونات ناعمة بتأثير 3D وخلفيات مضيئة -->
+<p>
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,mongodb,redis,fastapi,bash&theme=dark&perline=9" alt="My Skills" />
+</p>
 
 </div>
 
@@ -67,9 +70,9 @@
 
 <div align="center">
   
-<!-- كروت إحصائيات ناعمة -->
-<img src="https://github-readme-stats.vercel.app/api?username=TopVeGa&show_icons=true&theme=transparent&title_color=22C55E&icon_color=22C55E&text_color=555555&border_color=22C55E&hide_border=false&border_radius=15" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopVeGa&layout=compact&theme=transparent&title_color=22C55E&text_color=555555&border_color=22C55E&hide_border=false&border_radius=15" alt="Top Languages" width="45%" />
+<!-- كروت إحصائيات بألوان أرجوانية ناعمة (Glassmorphism) -->
+<img src="https://github-readme-stats.vercel.app/api?username=TopVeGa&show_icons=true&theme=transparent&title_color=A855F7&icon_color=A855F7&text_color=AAAAAA&border_color=A855F7&hide_border=false&border_radius=15" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopVeGa&layout=compact&theme=transparent&title_color=A855F7&text_color=AAAAAA&border_color=A855F7&hide_border=false&border_radius=15" alt="Top Languages" width="45%" />
 
 </div>
 
@@ -79,10 +82,11 @@
 
 <div align="center">
   
+<!-- شارات الحقوق بألوان هادئة -->
 <p>
-  <img src="https://img.shields.io/badge/Brand-VEGA_%26_Logic-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Copyright-©_2015--2025-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/License-Proprietary-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Brand-VEGA_%26_Logic-2D1B4E?style=flat-square&color=A855F7" />
+  <img src="https://img.shields.io/badge/Copyright-©_2015--2025-2D1B4E?style=flat-square&color=A855F7" />
+  <img src="https://img.shields.io/badge/License-Proprietary-2D1B4E?style=flat-square&color=A855F7" />
 </p>
 
 > **حقوق الطبع والنشر © 2015 - 2025 | العلامة التجارية: VEGA & Logic**
@@ -97,20 +101,21 @@
 
 <div align="center">
   
+<!-- أزرار تواصل بتأثير 3D ناعم -->
 <p>
   <a href="https://t.me/TopVeGa">
-    <img src="https://img.shields.io/badge/-Telegram-222222?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/-Telegram-2D1B4E?style=for-the-badge&logo=telegram&logoColor=white&color=A855F7" alt="Telegram" />
   </a>
   <a href="https://t.me/Logii3">
-    <img src="https://img.shields.io/badge/-Logic_Channel-22C55E?style=for-the-badge&logo=telegram&logoColor=white" alt="Logic" />
+    <img src="https://img.shields.io/badge/-Logic_Channel-2D1B4E?style=for-the-badge&logo=telegram&logoColor=white&color=A855F7" alt="Logic" />
   </a>
   <a href="https://t.me/vegaone">
-    <img src="https://img.shields.io/badge/-VEGA_SOUND-222222?style=for-the-badge&logo=telegram&logoColor=white" alt="VEGA" />
+    <img src="https://img.shields.io/badge/-VEGA_SOUND-2D1B4E?style=for-the-badge&logo=telegram&logoColor=white&color=A855F7" alt="VEGA" />
   </a>
 </p>
 
 <br>
 
-<sub>صُنع بـ 💚 بواسطة <b>TopVeGa</b> | *Code is Poetry.*</sub>
+<sub>صُنع بـ 💜 بواسطة <b>TopVeGa</b> | *Code is Poetry.*</sub>
 
 </div>
