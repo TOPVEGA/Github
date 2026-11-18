@@ -1,48 +1,54 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--              🟣 VEGA & LOGIC | Animated & Saturated 🟣                 -->
+<!--         🟣 VEGA & LOGIC | Smooth, Clean & Saturated Colors 🟣         -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-  <!-- 🌈 خلفية علوية متدرجة ناعمة (برتقالي - بنفسجي - أصفر) -->
+  <!-- 🌈 خلفية علوية متدرجة بألوان (برتقالي، بنفسجي، أصفر) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:A855F7,100:FACC15&height=180&section=header&text=TopVeGa&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Founder%20of%20VEGA%20%26%20Logic&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-  <!-- ✨ شعار متحرك -->
+  <!-- ✨ كتابة متحركة سلسة -->
   <a href="https://t.me/TopVeGa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&height=60&lines=Telegram+Bots+Developer+%F0%9F%A4%96;Python+Automation+Engineer+%F0%9F%90%8D;Soft+UI+%E2%9C%A8+Hard+Code+%F0%9F%92%9C;Building+Elegant+Arabic+Tech+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=50&lines=Telegram+Bots+Developer+%F0%9F%A4%96;Python+Automation+%F0%9F%90%8D;Soft+UI+%26+Hard+Code+%F0%9F%92%9C" alt="Typing SVG" />
   </a>
 
-  <br><br>
+  <br>
 
-  <!-- 💎 معلومات سريعة -->
-  <img src="https://img.shields.io/badge/📍_Egypt-1E1B4B?style=for-the-badge&labelColor=F97316&color=A855F7" />
-  <img src="https://img.shields.io/badge/💻_Python-1E1B4B?style=for-the-badge&labelColor=A855F7&color=FACC15" />
-  <img src="https://img.shields.io/badge/⏳_Since_2015-1E1B4B?style=for-the-badge&labelColor=FACC15&color=F97316" />
+  <!-- 💎 شارات معلومات سريعة -->
+  <img src="https://img.shields.io/badge/📍_Egypt-1E1B4B?style=for-the-badge&labelColor=A855F7&color=F97316" />
+  <img src="https://img.shields.io/badge/💻_Python-1E1B4B?style=for-the-badge&labelColor=FACC15&color=A855F7" />
+  <img src="https://img.shields.io/badge/⏳_Since_2015-1E1B4B?style=for-the-badge&labelColor=F97316&color=FACC15" />
 
 </div>
 
 <br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--             🪄 نبذة | Glass Card (Capsule Render)                       -->
+<!--                        🪄 نبذة | Smooth Glass                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <!-- استخدام capsule-render لإنشاء شكل يشبه البطاقة الزجاجية -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:312E81&height=200&section=header&text=🪄%20قصتي%20مع%20الكود&fontSize=30&fontColor=F0ABFC&animation=fadeIn" width="80%" />
-  <br>
-  <p align="center" style="color: #E9D5FF; font-size: 16px; line-height: 2; margin-top: -100px; position: relative; z-index: 10;">
+  <!-- إطار بنفسجي بحواف دائرية -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:1E1B4B&height=4&width=70%&section=header" />
+  <br><br>
+  
+  <h3 style="color: #FACC15;">🪄 قصتي مع الكود</h3>
+  
+  <p style="color: #E9D5FF; font-size: 16px; line-height: 2;">
     مبرمج شاب، ومؤسس علامة <b style="color: #F97316;">VEGA &amp; Logic</b>.<br>
     بدأت رحلتي منذ <b style="color: #FACC15;">2015</b>، وأتخصص في بناء بوتات تيليجرام الذكية،<br>
-    وأتمتة المهام، وتطوير السكربتات بأسلوب يجمع بين <b style="color: #A855F7;">البساطة والقوة</b>.<br>
+    وأتمتة المهام، وتطوير السكربتات بأسلوب يجمع بين <b style="color: #C084FC;">البساطة والقوة</b>.<br>
     هدفي دائماً: تبسيط التقنية للمستخدم العربي بأناقة ✨
   </p>
+  
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:A855F7&height=4&width=70%&section=header" />
 </div>
 
-<br><br><br>
+<br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--              🚀 المشاريع | Animated Gradient Buttons                   -->
+<!--                    🚀 المشاريع | Animated Buttons                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -50,28 +56,28 @@
   <p style="color: #9CA3AF;">اضغط لاستكشاف مشاريعي 👇</p>
 
   <a href="https://t.me/vegaone">
-    <img src="https://img.shields.io/badge/🎵_VEGA_SOUND-1E1B4B?style=for-the-badge&logoColor=white&color=A855F7" height="45" />
+    <img src="https://img.shields.io/badge/🎵_VEGA_SOUND-1E1B4B?style=for-the-badge&logoColor=white&color=A855F7" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/Logii3">
-    <img src="https://img.shields.io/badge/🧠_LOGIC-1E1B4B?style=for-the-badge&logoColor=white&color=F97316" height="45" />
+    <img src="https://img.shields.io/badge/🧠_LOGIC-1E1B4B?style=for-the-badge&logoColor=white&color=F97316" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/Bi1ieBot">
-    <img src="https://img.shields.io/badge/🤖_BilieBot-1E1B4B?style=for-the-badge&logoColor=white&color=FACC15" height="45" />
+    <img src="https://img.shields.io/badge/🤖_BilieBot-1E1B4B?style=for-the-badge&logoColor=white&color=FACC15" height="40" />
   </a>
 </div>
 
 <br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    🛠️ التقنيات | 3D Icons                              -->
+<!--                     🛠️ التقنيات | 3D Icons                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <h3 style="color: #C084FC;">💻 ترسانتي التقنية</h3>
-  
-  <!-- أيقونات ثلاثية الأبعاد -->
+  <br>
+  <!-- أيقونات تقنية 3D بألوان مريحة للعين -->
   <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,mongodb,redis,fastapi,bash,docker,nginx&theme=dark&perline=11" alt="Tech Stack" />
 </div>
 
@@ -83,9 +89,10 @@
 
 <div align="center">
   <h3 style="color: #C084FC;">📊 الإحصائيات</h3>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=TopVeGa&show_icons=true&theme=dark&bg_color=1E1B4B&title_color=C084FC&icon_color=FACC15&text_color=E9D5FF&border_color=A855F7&hide_border=false&border_radius=15" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopVeGa&layout=compact&theme=dark&bg_color=1E1B4B&title_color=C084FC&text_color=E9D5FF&border_color=A855F7&hide_border=false&border_radius=15" alt="Top Languages" width="45%" />
+  
+  <!-- استخدام لون خلفية موحد ومناسب للكروت -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TopVeGa&show_icons=true&theme=dark&bg_color=1E1B4B&title_color=FACC15&icon_color=F97316&text_color=E9D5FF&border_color=A855F7&hide_border=false&border_radius=15" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopVeGa&layout=compact&theme=dark&bg_color=1E1B4B&title_color=FACC15&text_color=E9D5FF&border_color=A855F7&hide_border=false&border_radius=15" alt="Top Languages" width="45%" />
 
   <br><br>
 
@@ -99,7 +106,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:A855F7,100:FACC15&height=2&width=40%&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:A855F7,100:FACC15&height=3&width=40%&section=header" />
   <br><br>
 
   <p style="color: #9CA3AF; font-size: 14px;">
@@ -113,5 +120,5 @@
 
 <br>
 
-<!-- 🌊 خلفية سفلية متدرجة ناعمة (برتقالي - بنفسجي - أصفر) -->
+<!-- 🌊 خلفية سفلية متدرجة ناعمة -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,50:A855F7,100:F97316&height=120&section=footer" width="100%" />
