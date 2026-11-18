@@ -1,75 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,45:312E81,100:7C3AED&height=190&section=header&text=TOP%20VEGA&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=VEGA%20%26%20Logic%20%E2%80%A2%20Telegram%20Bots%20%26%20Automation&descSize=16&descAlignY=68&animation=fadeIn" width="100%" alt="TopVeGa banner"/>
+<img src="assets/vega-banner.svg" width="100%" alt="Top Vega — VEGA & Logic"/>
 
-<a href="https://t.me/TopVeGa">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=42&lines=Telegram+Bots+Developer;Python+%26+Automation;Building+useful+digital+experiences" alt="Typing introduction"/>
-</a>
+<br/>
 
-<p>
-  <a href="https://t.me/TopVeGa"><img src="https://img.shields.io/badge/Telegram-TopVeGa-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <img src="https://img.shields.io/badge/Focus-Telegram%20Bots-7C3AED?style=for-the-badge&logo=telegram&logoColor=white" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+<a href="https://t.me/TopVeGa"><img src="https://img.shields.io/badge/Telegram-Connect-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Developer"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Telegram%20Bots-7C3AED?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bots"/>
+
+<p><i>Building useful digital products with thoughtful engineering.</i></p>
 
 </div>
 
 ---
 
-## ✦ About
+## / PROFILE
 
-<div align="center">
+I'm **TopVeGa**, founder of **VEGA & Logic**.
 
-### Welcome to my digital space.
+I build Telegram bots, Python automation, and connected tools with a focus on practical functionality, maintainable code, and smooth user experiences.
 
-**I'm TopVeGa**, founder of **VEGA & Logic** — focused on building Telegram bots, automation tools, and practical software experiences.
-
-I enjoy turning ideas into reliable products, with attention to clean code, thoughtful functionality, and a polished user experience.
-
-</div>
-
-## ◈ What I Build
+## / EXPERTISE
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Telegram Bots</h3>
-      Custom bots, interactive workflows, and useful Telegram experiences.
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Automation</h3>
-      Python tools that simplify repetitive tasks and connect services.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧩 Integrations</h3>
-      API connections, service integrations, and data-driven features.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 User Experience</h3>
-      Clear interfaces, smooth interactions, and consistent visual identity.
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.icons8.com/fluency/48/telegram-app.png" width="22" valign="middle"/> Telegram Development
+
+Custom Telegram bots, interactive flows, rich messaging experiences, and integrations.
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.icons8.com/fluency/48/python.png" width="22" valign="middle"/> Python Engineering
+
+Automation, backend services, API integrations, and maintainable application logic.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.icons8.com/fluency/48/workflow.png" width="22" valign="middle"/> Automation
+
+Connecting services and simplifying repetitive workflows through reliable tools.
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.icons8.com/fluency/48/design.png" width="22" valign="middle"/> Product Experience
+
+Clear interfaces, consistent visual systems, and intuitive interactions.
+
+</td>
+</tr>
 </table>
 
-## ✧ Featured Projects
+## / SELECTED PROJECTS
 
 <div align="center">
 
-<a href="https://t.me/vegaone">
-  <img src="https://img.shields.io/badge/VEGA_SOUND-Explore-7C3AED?style=for-the-badge&logo=telegram&logoColor=white" alt="VEGA SOUND"/>
-</a>
-<a href="https://t.me/Logii3">
-  <img src="https://img.shields.io/badge/LOGIC-Explore-2563EB?style=for-the-badge&logo=telegram&logoColor=white" alt="LOGIC"/>
-</a>
-<a href="https://t.me/Bi1ieBot">
-  <img src="https://img.shields.io/badge/BilieBot-Open-0891B2?style=for-the-badge&logo=telegram&logoColor=white" alt="BilieBot"/>
-</a>
+<a href="https://t.me/vegaone"><img src="https://img.shields.io/badge/VEGA_SOUND-Explore-7C3AED?style=for-the-badge&logo=telegram&logoColor=white" alt="VEGA SOUND"/></a>
+&nbsp;
+<a href="https://t.me/Logii3"><img src="https://img.shields.io/badge/LOGIC-Explore-2563EB?style=for-the-badge&logo=telegram&logoColor=white" alt="LOGIC"/></a>
+&nbsp;
+<a href="https://t.me/Bi1ieBot"><img src="https://img.shields.io/badge/BilieBot-Open-0891B2?style=for-the-badge&logo=telegram&logoColor=white" alt="BilieBot"/></a>
 
 </div>
 
-## ⌘ Tech Stack
+## / TECHNOLOGY
 
 <div align="center">
 
@@ -77,29 +79,24 @@ I enjoy turning ideas into reliable products, with attention to clean code, thou
 
 </div>
 
-## ◉ GitHub Insights
+## / GITHUB METRICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TopVeGA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=7C3AED" alt="GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopVeGA&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1" alt="Most used languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=TopVeGA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&ring_color=7C3AED" alt="GitHub statistics"/>
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopVeGA&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages"/>
 
 </div>
 
-## ↗ Connect
+## / FIND ME
 
 <div align="center">
 
-For projects, collaborations, or questions, find me on Telegram.
-
-<a href="https://t.me/TopVeGa">
-  <img src="https://img.shields.io/badge/Message%20me-TopVeGa-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact TopVeGa"/>
-</a>
+<a href="https://t.me/TopVeGa"><img src="https://img.shields.io/badge/Telegram-@TopVeGa-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact on Telegram"/></a>
 
 <br/><br/>
 
-<sub>VEGA & Logic · Crafted with purpose and precision.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:4F46E5,100:0891B2&height=100&section=footer" width="100%" alt="Footer"/>
+<sub><b>VEGA &amp; Logic</b> — Crafted with purpose. Built with logic.</sub>
 
 </div>
