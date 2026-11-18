@@ -7,9 +7,9 @@
   <!-- 🌈 خلفية علوية متدرجة ناعمة -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:EC4899&height=180&section=header&text=TopVeGa&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Founder%20of%20VEGA%20%26%20Logic&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-  <!-- ✨ شعار متحرك بتأثير Gradient -->
+  <!-- ✨ شعار متحرك -->
   <a href="https://t.me/TopVeGa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Telegram+Bots+Developer+%F0%9F%A4%96;Python+Automation+Engineer+%F0%9F%90%8D;Soft+UI+%E2%9C%A8+Hard+Code+%F0%9F%92%9C;Building+Elegant+Arabic+Tech+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&height=60&lines=Telegram+Bots+Developer+%F0%9F%A4%96;Python+Automation+Engineer+%F0%9F%90%8D;Soft+UI+%E2%9C%A8+Hard+Code+%F0%9F%92%9C;Building+Elegant+Arabic+Tech+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
   </a>
 
   <!-- 💎 معلومات سريعة -->
@@ -110,59 +110,7 @@
 
   <br><br>
 
-  <!-- 🔥 Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TopVeGa&theme=dark&background=1E1B4B&border=A855F7&stroke=A855F7&ring=EC4899&fire=F0ABFC&currStreakLabel=C084FC&sideLabels=E9D5FF&currStreakNum=FFFFFF&dates=9CA3AF&border_radius=15" alt="GitHub Streak" width="70%" />
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        📜 CV | Elegant & Smooth                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-  <h3 style="color: #C084FC;">📜 السيرة الذاتية</h3>
-
-  <table align="center" style="border-collapse: collapse; border: none; width: 85%;">
-    <tr>
-      <td style="background: linear-gradient(135deg, #1E1B4B 0%, #312E81 100%); border: 1px solid #A855F7; border-radius: 20px; padding: 30px 40px; box-shadow: 0 8px 32px rgba(168, 85, 247, 0.3);">
-
-  <h4 style="color: #F0ABFC; margin-top: 0;">🎯 الملف الشخصي</h4>
-  <p style="color: #E9D5FF; line-height: 1.9;">
-    مطوّر <b style="color: #C084FC;">Python</b> متخصص في بناء بوتات <b style="color: #C084FC;">Telegram</b> الذكية،<br>
-    وأتمتة المهام، وتطوير الـ APIs باستخدام <b style="color: #C084FC;">FastAPI</b>.<br>
-    خبرة <b style="color: #F0ABFC;">+10 سنوات</b> في عالم البرمجة.
-  </p>
-
-  <h4 style="color: #F0ABFC;">💼 الخبرات</h4>
-  <ul style="color: #E9D5FF; line-height: 2; text-align: right;">
-    <li>🤖 تطوير بوتات Telegram احترافية (VEGA Sound، Logic، BilieBot)</li>
-    <li>⚙️ أتمتة المهام باستخدام Python &amp; Bash</li>
-    <li>🌐 تطوير REST APIs بـ FastAPI + MongoDB + Redis</li>
-    <li>🐳 إدارة الخوادم والنشر بـ Docker &amp; Linux &amp; Nginx</li>
-  </ul>
-
-  <h4 style="color: #F0ABFC;">🛠️ المهارات</h4>
-  <p style="color: #E9D5FF; line-height: 2;">
-    <code style="background: #4C1D95; color: #F0ABFC; padding: 3px 10px; border-radius: 8px;">Python</code>
-    <code style="background: #4C1D95; color: #F0ABFC; padding: 3px 10px; border-radius: 8px;">FastAPI</code>
-    <code style="background: #4C1D95; color: #F0ABFC; padding: 3px 10px; border-radius: 8px;">MongoDB</code>
-    <code style="background: #4C1D95; color: #F0ABFC; padding: 3px 10px; border-radius: 8px;">Redis</code>
-    <code style="background: #4C1D95; color: #F0ABFC; padding: 3px 10px; border-radius: 8px;">Docker</code>
-    <code style="background: #4C1D95; color: #F0ABFC; padding: 3px 10px; border-radius: 8px;">Linux</code>
-    <code style="background: #4C1D95; color: #F0ABFC; padding: 3px 10px; border-radius: 8px;">Git</code>
-  </p>
-
-  <h4 style="color: #F0ABFC;">📬 تواصل معي</h4>
-  <p style="color: #E9D5FF; line-height: 1.9;">
-    💬 <a href="https://t.me/TopVeGa" style="color: #C084FC; text-decoration: none;"><b>@TopVeGa</b></a> على Telegram
-  </p>
-
-      </td>
-    </tr>
-  </table>
 
 </div>
 
